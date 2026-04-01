@@ -1,0 +1,1853 @@
+[
+  {
+    "cliente_id": "1001",
+    "nombre_completo": " Camila Muñoz ",
+    "email": "correo_invalido",
+    "telefono": "12345",
+    "fecha_nacimiento": "1989-06-22",
+    "fecha_registro": "",
+    "activo": false,
+    "direccion": {
+      "calle": "",
+      "ciudad": "Maipú",
+      "region": "Biobío",
+      "pais": null,
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 2,
+    "monto_total": "",
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": "black-friday",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": 1002,
+    "nombre_completo": " Tomás Pérez ",
+    "email": "tomás@empresa.cl",
+    "telefono": null,
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025-01-15T00:00:00",
+    "activo": "false",
+    "direccion": {
+      "calle": "",
+      "ciudad": "Viña del Mar",
+      "region": "",
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "12",
+    "monto_total": "99.990",
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": "1003",
+    "nombre_completo": " Diego Rojas ",
+    "email": "",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": null,
+    "activo": false,
+    "direccion": {
+      "calle": "",
+      "ciudad": "santiago",
+      "region": "Biobío",
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": 2,
+    "monto_total": "120000",
+    "preferencias": null,
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "summer_sale",
+      "score": ""
+    }
+  },
+  {
+    "cliente_id": "1004",
+    "nombre_completo": " Sofía Silva ",
+    "email": "correo_invalido",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025/08/03",
+    "activo": null,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": null,
+      "region": null,
+      "pais": "",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "12",
+    "monto_total": "99.990",
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": null,
+    "metadata": {
+      "origen": null,
+      "campana": null,
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": 1005,
+    "nombre_completo": " Pedro Silva ",
+    "email": null,
+    "telefono": null,
+    "fecha_nacimiento": null,
+    "fecha_registro": "",
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "santiago",
+      "region": "",
+      "pais": "chile",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": "",
+    "monto_total": -1500,
+    "preferencias": null,
+    "ultimo_login": "",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "summer_sale",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": 1006,
+    "nombre_completo": "Jorge Contreras",
+    "email": "correo_invalido",
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025-05-28T00:00:00",
+    "activo": false,
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "",
+      "region": "Biobío",
+      "pais": "CL",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": "",
+    "monto_total": -1500,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": null,
+      "campana": null,
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "001007",
+    "nombre_completo": "Ana Pérez",
+    "email": "correo_invalido",
+    "telefono": "",
+    "fecha_nacimiento": "04/01/2007",
+    "fecha_registro": "2025/03/12",
+    "activo": "true",
+    "direccion": {
+      "calle": "",
+      "ciudad": "Maipú",
+      "region": "",
+      "pais": null,
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": "",
+    "monto_total": "",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": null,
+    "metadata": {
+      "origen": null,
+      "campana": "",
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": 1008,
+    "nombre_completo": "Ana Soto",
+    "email": "correo_invalido",
+    "telefono": "12345",
+    "fecha_nacimiento": "2005-03-23",
+    "fecha_registro": null,
+    "activo": "true",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Santiago",
+      "region": null,
+      "pais": "",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "black-friday",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": 1009,
+    "nombre_completo": "diego soto",
+    "email": null,
+    "telefono": null,
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": null,
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Maipú",
+      "region": null,
+      "pais": "chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": "",
+    "monto_total": null,
+    "preferencias": null,
+    "ultimo_login": "2026-99-01",
+    "tags": null,
+    "metadata": {
+      "origen": "tienda",
+      "campana": "black-friday",
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": "001010",
+    "nombre_completo": "Valentina Soto",
+    "email": "valentina@empresa.cl",
+    "telefono": "56987654321",
+    "fecha_nacimiento": "",
+    "fecha_registro": "",
+    "activo": false,
+    "direccion": {
+      "calle": "",
+      "ciudad": "Viña del Mar",
+      "region": "Valparaíso",
+      "pais": "",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": -3,
+    "monto_total": "120000",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "",
+    "tags": [],
+    "metadata": {
+      "origen": "web",
+      "campana": null,
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "001011",
+    "nombre_completo": "Jorge Muñoz",
+    "email": "",
+    "telefono": "",
+    "fecha_nacimiento": "",
+    "fecha_registro": null,
+    "activo": false,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Viña del Mar",
+      "region": null,
+      "pais": "CL",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": 2,
+    "monto_total": "",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "black-friday",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": 1012,
+    "nombre_completo": "Ana González",
+    "email": "ana@empresa.cl",
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/07/31",
+    "activo": "false",
+    "direccion": {
+      "calle": null,
+      "ciudad": null,
+      "region": "Valparaíso",
+      "pais": "CL",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": "12",
+    "monto_total": null,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": "summer_sale",
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": null,
+    "nombre_completo": "Sofía Muñoz",
+    "email": "sofía@empresa.cl",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025-01-19T00:00:00",
+    "activo": true,
+    "direccion": {
+      "calle": "",
+      "ciudad": "santiago",
+      "region": "Biobío",
+      "pais": "CL",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": -3,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": null,
+    "tags": [],
+    "metadata": {
+      "origen": "app",
+      "campana": "summer_sale",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": "1014",
+    "nombre_completo": "María Vega",
+    "email": "",
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/11/28",
+    "activo": false,
+    "direccion": {
+      "calle": null,
+      "ciudad": "",
+      "region": null,
+      "pais": "CL",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": null,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": 1015,
+    "nombre_completo": " Ana Díaz ",
+    "email": "",
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025-07-16T00:00:00",
+    "activo": "true",
+    "direccion": {
+      "calle": "",
+      "ciudad": "maipu",
+      "region": "RM",
+      "pais": "Chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "12",
+    "monto_total": 55990.5,
+    "preferencias": null,
+    "ultimo_login": "2026-99-01",
+    "tags": [],
+    "metadata": {
+      "origen": "web",
+      "campana": "",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": 1016,
+    "nombre_completo": "tomás rojas",
+    "email": null,
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "",
+    "activo": "false",
+    "direccion": {
+      "calle": null,
+      "ciudad": "maipu",
+      "region": "Valparaíso",
+      "pais": null,
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": -3,
+    "monto_total": "",
+    "preferencias": [],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "summer_sale",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "001017",
+    "nombre_completo": "Tomás Contreras",
+    "email": "tomás.contreras@mail.com",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "19/05/1982",
+    "fecha_registro": null,
+    "activo": true,
+    "direccion": {
+      "calle": null,
+      "ciudad": "Santiago",
+      "region": "",
+      "pais": "chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": null,
+    "monto_total": "99.990",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "1018",
+    "nombre_completo": "Sofía Díaz",
+    "email": "sofía.díaz@mail.com",
+    "telefono": "",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025-01-02T00:00:00",
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "santiago",
+      "region": "",
+      "pais": "Chile",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": null,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": null,
+    "tags": [],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "1019",
+    "nombre_completo": " Sofía González ",
+    "email": "sofía.gonzález@mail.com",
+    "telefono": "56987654321",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "maipu",
+      "region": "RM",
+      "pais": "Chile",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": -3,
+    "monto_total": null,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": null,
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "black-friday",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "1020",
+    "nombre_completo": "Diego Soto",
+    "email": "diego.soto@mail.com",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025-03-21T00:00:00",
+    "activo": false,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "santiago",
+      "region": "RM",
+      "pais": null,
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": -3,
+    "monto_total": "",
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "001021",
+    "nombre_completo": "valentina rojas",
+    "email": "correo_invalido",
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "",
+    "activo": false,
+    "direccion": {
+      "calle": "",
+      "ciudad": "Maipú",
+      "region": null,
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "12",
+    "monto_total": "120000",
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": null,
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": 1022,
+    "nombre_completo": " Ana Soto ",
+    "email": null,
+    "telefono": "",
+    "fecha_nacimiento": "11/02/2005",
+    "fecha_registro": "",
+    "activo": "false",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": null,
+      "region": "Valparaíso",
+      "pais": "chile",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": 5,
+    "monto_total": -1500,
+    "preferencias": null,
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": "001023",
+    "nombre_completo": "Sofía Rojas",
+    "email": null,
+    "telefono": "12345",
+    "fecha_nacimiento": "1984-02-14",
+    "fecha_registro": "2025/05/11",
+    "activo": true,
+    "direccion": {
+      "calle": "",
+      "ciudad": "",
+      "region": null,
+      "pais": null,
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": 2,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "black-friday",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": 1024,
+    "nombre_completo": "Camila Pérez",
+    "email": "camila@empresa.cl",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/04/19",
+    "activo": "false",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Concepción",
+      "region": "Biobío",
+      "pais": "",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "",
+    "monto_total": "120000",
+    "preferencias": [],
+    "ultimo_login": "",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": 25
+    }
+  },
+  {
+    "cliente_id": "001025",
+    "nombre_completo": "Diego Soto",
+    "email": "diego.soto@mail.com",
+    "telefono": null,
+    "fecha_nacimiento": "18/08/1991",
+    "fecha_registro": "2025/04/15",
+    "activo": true,
+    "direccion": {
+      "calle": "",
+      "ciudad": "",
+      "region": "Biobío",
+      "pais": "chile",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": "",
+    "monto_total": 55990.5,
+    "preferencias": null,
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "",
+      "score": ""
+    }
+  },
+  {
+    "cliente_id": "001026",
+    "nombre_completo": "diego vega",
+    "email": "diego@empresa.cl",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": false,
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Santiago",
+      "region": "RM",
+      "pais": "Chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "black-friday",
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": 1027,
+    "nombre_completo": "Jorge Pérez",
+    "email": "jorge.pérez@mail.com",
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": true,
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Viña del Mar",
+      "region": null,
+      "pais": "CL",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": -1500,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": null,
+      "campana": "black-friday",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "001028",
+    "nombre_completo": " Pedro Silva ",
+    "email": null,
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "",
+    "fecha_registro": null,
+    "activo": "false",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "maipu",
+      "region": "Biobío",
+      "pais": "Chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": 2,
+    "monto_total": "99.990",
+    "preferencias": null,
+    "ultimo_login": null,
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "summer_sale",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": 1029,
+    "nombre_completo": " María González ",
+    "email": "correo_invalido",
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025-09-13T00:00:00",
+    "activo": false,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": null,
+      "region": "Biobío",
+      "pais": "Chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": "12",
+    "monto_total": "",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "summer_sale",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": 1030,
+    "nombre_completo": "Tomás Muñoz",
+    "email": "",
+    "telefono": "56987654321",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/12/31",
+    "activo": "Sí",
+    "direccion": {
+      "calle": null,
+      "ciudad": "Concepción",
+      "region": "",
+      "pais": "chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": "",
+    "monto_total": 10000,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": null,
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1031,
+    "nombre_completo": "Jorge Pérez",
+    "email": "jorge@empresa.cl",
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": "false",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "",
+      "region": "RM",
+      "pais": null,
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": 10,
+    "monto_total": null,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [],
+    "metadata": {
+      "origen": "app",
+      "campana": null,
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": 1032,
+    "nombre_completo": "Sofía Soto",
+    "email": "",
+    "telefono": "",
+    "fecha_nacimiento": "",
+    "fecha_registro": "",
+    "activo": true,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "santiago",
+      "region": "Valparaíso",
+      "pais": "",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": null,
+    "monto_total": 10000,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [],
+    "metadata": {
+      "origen": null,
+      "campana": "summer_sale",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": 1033,
+    "nombre_completo": "Sofía Pérez",
+    "email": "correo_invalido",
+    "telefono": "56987654321",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/05/30",
+    "activo": "No",
+    "direccion": {
+      "calle": null,
+      "ciudad": "Maipú",
+      "region": "Valparaíso",
+      "pais": "CL",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": "12",
+    "monto_total": "99.990",
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "001034",
+    "nombre_completo": "camila vega",
+    "email": null,
+    "telefono": null,
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/02/09",
+    "activo": "false",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Maipú",
+      "region": "Biobío",
+      "pais": "Chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "",
+    "monto_total": -1500,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": null,
+    "tags": [],
+    "metadata": {
+      "origen": "",
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "1035",
+    "nombre_completo": "Tomás Muñoz",
+    "email": "",
+    "telefono": "56987654321",
+    "fecha_nacimiento": null,
+    "fecha_registro": "",
+    "activo": "true",
+    "direccion": {
+      "calle": null,
+      "ciudad": "maipu",
+      "region": "Biobío",
+      "pais": "",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": null,
+    "monto_total": "120000",
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": null,
+      "campana": "black-friday",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "001036",
+    "nombre_completo": "Diego Rojas",
+    "email": null,
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025/08/13",
+    "activo": "No",
+    "direccion": {
+      "calle": "",
+      "ciudad": "maipu",
+      "region": "Biobío",
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": null,
+    "monto_total": 10000,
+    "preferencias": null,
+    "ultimo_login": "2026-99-01",
+    "tags": null,
+    "metadata": {
+      "origen": null,
+      "campana": null,
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1037,
+    "nombre_completo": "Valentina Pérez",
+    "email": "valentina@empresa.cl",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025/07/04",
+    "activo": "No",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "",
+      "region": "Biobío",
+      "pais": "",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": 0,
+    "monto_total": 10000,
+    "preferencias": [],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": null,
+      "campana": "black-friday",
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": "1038",
+    "nombre_completo": " Jorge Torres ",
+    "email": "jorge.torres@mail.com",
+    "telefono": "",
+    "fecha_nacimiento": "2009-08-24",
+    "fecha_registro": "",
+    "activo": "false",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "santiago",
+      "region": "Valparaíso",
+      "pais": "CL",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": "",
+    "monto_total": "99.990",
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": null,
+    "metadata": {
+      "origen": "tienda",
+      "campana": null,
+      "score": 25
+    }
+  },
+  {
+    "cliente_id": "001039",
+    "nombre_completo": "Diego Vega",
+    "email": "diego.vega@mail.com",
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025-06-13T00:00:00",
+    "activo": "No",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "maipu",
+      "region": null,
+      "pais": "chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 5,
+    "monto_total": "120000",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": null,
+    "tags": null,
+    "metadata": {
+      "origen": "app",
+      "campana": null,
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": "1040",
+    "nombre_completo": "María Torres",
+    "email": "correo_invalido",
+    "telefono": "",
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025-07-22T00:00:00",
+    "activo": "No",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "maipu",
+      "region": "Biobío",
+      "pais": "Chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 2,
+    "monto_total": -1500,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "black-friday",
+      "score": 150
+    }
+  },
+  {
+    "cliente_id": 1041,
+    "nombre_completo": " Luis Díaz ",
+    "email": "correo_invalido",
+    "telefono": "",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": null,
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Concepción",
+      "region": "Biobío",
+      "pais": "",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 5,
+    "monto_total": -1500,
+    "preferencias": [],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "black-friday",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": "1042",
+    "nombre_completo": " Luis Rojas ",
+    "email": "luis@empresa.cl",
+    "telefono": null,
+    "fecha_nacimiento": null,
+    "fecha_registro": null,
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "",
+      "region": "",
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": 5,
+    "monto_total": "",
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": null,
+    "tags": [],
+    "metadata": {
+      "origen": "app",
+      "campana": "black-friday",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": "001043",
+    "nombre_completo": "Diego Silva",
+    "email": null,
+    "telefono": "56987654321",
+    "fecha_nacimiento": "28/10/2013",
+    "fecha_registro": null,
+    "activo": "Sí",
+    "direccion": {
+      "calle": null,
+      "ciudad": "",
+      "region": "",
+      "pais": "",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": -3,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": "",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "1044",
+    "nombre_completo": null,
+    "email": "correo_invalido",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025-10-03T00:00:00",
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Viña del Mar",
+      "region": null,
+      "pais": "CL",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 0,
+    "monto_total": -1500,
+    "preferencias": null,
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "summer_sale",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "001045",
+    "nombre_completo": "Camila Pérez",
+    "email": null,
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "15/10/1986",
+    "fecha_registro": "2025/08/19",
+    "activo": null,
+    "direccion": {
+      "calle": "",
+      "ciudad": "",
+      "region": "Valparaíso",
+      "pais": null,
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": 10,
+    "monto_total": -1500,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "",
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": "001046",
+    "nombre_completo": "Jorge Díaz",
+    "email": "jorge@empresa.cl",
+    "telefono": "",
+    "fecha_nacimiento": "2000-09-09",
+    "fecha_registro": "",
+    "activo": null,
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Maipú",
+      "region": "Valparaíso",
+      "pais": "chile",
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": 10,
+    "monto_total": -1500,
+    "preferencias": null,
+    "ultimo_login": null,
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": null,
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1047,
+    "nombre_completo": "Sofía Vega",
+    "email": "correo_invalido",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "",
+    "activo": "false",
+    "direccion": {
+      "calle": null,
+      "ciudad": "Concepción",
+      "region": null,
+      "pais": "Chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": -3,
+    "monto_total": null,
+    "preferencias": [],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": "black-friday",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "001048",
+    "nombre_completo": " Pedro Vega ",
+    "email": "correo_invalido",
+    "telefono": null,
+    "fecha_nacimiento": "25/06/1989",
+    "fecha_registro": null,
+    "activo": null,
+    "direccion": {
+      "calle": "",
+      "ciudad": "Santiago",
+      "region": "RM",
+      "pais": "Chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": 0,
+    "monto_total": 10000,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": null,
+    "tags": null,
+    "metadata": {
+      "origen": "web",
+      "campana": null,
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "001049",
+    "nombre_completo": "María Díaz",
+    "email": "",
+    "telefono": "12345",
+    "fecha_nacimiento": "2014-03-23",
+    "fecha_registro": "",
+    "activo": "No",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Santiago",
+      "region": "",
+      "pais": "CL",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": null,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": null,
+      "score": 25
+    }
+  },
+  {
+    "cliente_id": 1050,
+    "nombre_completo": "María Silva",
+    "email": "maría.silva@mail.com",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "",
+    "fecha_registro": "2025-04-26T00:00:00",
+    "activo": null,
+    "direccion": {
+      "calle": null,
+      "ciudad": "Maipú",
+      "region": "",
+      "pais": "Chile",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": 10000,
+    "preferencias": [
+      "futbol",
+      "running"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "",
+      "score": 80
+    }
+  },
+  {
+    "cliente_id": "1051",
+    "nombre_completo": "Sofía Muñoz",
+    "email": "correo_invalido",
+    "telefono": null,
+    "fecha_nacimiento": "2005-05-17",
+    "fecha_registro": "2025/11/25",
+    "activo": "false",
+    "direccion": {
+      "calle": "",
+      "ciudad": "maipu",
+      "region": "Valparaíso",
+      "pais": "",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": -3,
+    "monto_total": -1500,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": "summer_sale",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": "1052",
+    "nombre_completo": "jorge torres",
+    "email": "",
+    "telefono": "+56-2-2345678",
+    "fecha_nacimiento": "2010-06-27",
+    "fecha_registro": "2025/06/11",
+    "activo": "Sí",
+    "direccion": {
+      "calle": "",
+      "ciudad": "Santiago",
+      "region": "Biobío",
+      "pais": "chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 10,
+    "monto_total": null,
+    "preferencias": null,
+    "ultimo_login": "",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "app",
+      "campana": null,
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1053,
+    "nombre_completo": "Luis Rojas",
+    "email": "",
+    "telefono": "12345",
+    "fecha_nacimiento": "16/08/2003",
+    "fecha_registro": null,
+    "activo": null,
+    "direccion": {
+      "calle": null,
+      "ciudad": "Concepción",
+      "region": null,
+      "pais": "chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": 2,
+    "monto_total": 10000,
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "vip",
+      "newsletter"
+    ],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "black-friday",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": 1054,
+    "nombre_completo": "Ana Torres",
+    "email": null,
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025/09/17",
+    "activo": "true",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": "Viña del Mar",
+      "region": "RM",
+      "pais": null,
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": 5,
+    "monto_total": "",
+    "preferencias": [],
+    "ultimo_login": null,
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1055,
+    "nombre_completo": "Pedro Pérez",
+    "email": null,
+    "telefono": null,
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025-05-06T00:00:00",
+    "activo": "true",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "santiago",
+      "region": "RM",
+      "pais": "chile",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": 5,
+    "monto_total": "99.990",
+    "preferencias": [],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "black-friday",
+      "score": null
+    }
+  },
+  {
+    "cliente_id": 1056,
+    "nombre_completo": " María Díaz ",
+    "email": null,
+    "telefono": "12345",
+    "fecha_nacimiento": "1999-14-99",
+    "fecha_registro": "2025-03-02T00:00:00",
+    "activo": "true",
+    "direccion": {
+      "calle": "Av. Siempre Viva 123",
+      "ciudad": null,
+      "region": "",
+      "pais": null,
+      "codigo_postal": ""
+    },
+    "compras_acumuladas": 0,
+    "monto_total": "99.990",
+    "preferencias": [
+      "tenis",
+      "padel",
+      "ciclismo"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [],
+    "metadata": {
+      "origen": "app",
+      "campana": "",
+      "score": 25
+    }
+  },
+  {
+    "cliente_id": 1057,
+    "nombre_completo": "Tomás González",
+    "email": "tomás.gonzález@mail.com",
+    "telefono": "56987654321",
+    "fecha_nacimiento": "2008-03-24",
+    "fecha_registro": null,
+    "activo": "true",
+    "direccion": {
+      "calle": null,
+      "ciudad": "Maipú",
+      "region": "Valparaíso",
+      "pais": "Chile",
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": null,
+    "monto_total": 55990.5,
+    "preferencias": [],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": null,
+    "metadata": {
+      "origen": "tienda",
+      "campana": "",
+      "score": 25
+    }
+  },
+  {
+    "cliente_id": 1058,
+    "nombre_completo": "tomás soto",
+    "email": "tomás@empresa.cl",
+    "telefono": null,
+    "fecha_nacimiento": "1997-07-09",
+    "fecha_registro": null,
+    "activo": true,
+    "direccion": {
+      "calle": null,
+      "ciudad": "Viña del Mar",
+      "region": "Biobío",
+      "pais": "CL",
+      "codigo_postal": "8320000"
+    },
+    "compras_acumuladas": -3,
+    "monto_total": 10000,
+    "preferencias": [],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [],
+    "metadata": {
+      "origen": null,
+      "campana": "",
+      "score": "95"
+    }
+  },
+  {
+    "cliente_id": "1059",
+    "nombre_completo": "diego soto",
+    "email": "diego@empresa.cl",
+    "telefono": "+56 9 1234 5678",
+    "fecha_nacimiento": null,
+    "fecha_registro": "2025-10-30T00:00:00",
+    "activo": false,
+    "direccion": {
+      "calle": "",
+      "ciudad": "Santiago",
+      "region": "Biobío",
+      "pais": "Chile",
+      "codigo_postal": null
+    },
+    "compras_acumuladas": "12",
+    "monto_total": 10000,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-99-01",
+    "tags": [
+      "nuevo"
+    ],
+    "metadata": {
+      "origen": "",
+      "campana": null,
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "1060",
+    "nombre_completo": "María Díaz",
+    "email": "",
+    "telefono": "",
+    "fecha_nacimiento": "1976-12-20",
+    "fecha_registro": "2025-02-17T00:00:00",
+    "activo": "Sí",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "",
+      "region": "RM",
+      "pais": null,
+      "codigo_postal": "ABC999"
+    },
+    "compras_acumuladas": 0,
+    "monto_total": "99.990",
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "15/01/2026 10:22",
+    "tags": [],
+    "metadata": {
+      "origen": "tienda",
+      "campana": "",
+      "score": -1
+    }
+  },
+  {
+    "cliente_id": 1008,
+    "nombre_completo": "Ana Soto",
+    "email": "correo_invalido",
+    "telefono": "12345",
+    "fecha_nacimiento": "2005-03-23",
+    "fecha_registro": null,
+    "activo": "true",
+    "direccion": {
+      "calle": "Los Aromos 456",
+      "ciudad": "Santiago",
+      "region": null,
+      "pais": "",
+      "codigo_postal": "7600000"
+    },
+    "compras_acumuladas": null,
+    "monto_total": 55990.5,
+    "preferencias": [
+      "gym"
+    ],
+    "ultimo_login": "2026-01-15 10:22:00",
+    "tags": [
+      "moroso",
+      null,
+      "promo"
+    ],
+    "metadata": {
+      "origen": "web",
+      "campana": "black-friday",
+      "score": 10
+    }
+  },
+  {
+    "cliente_id": "1005",
+    "nombre_completo": "ANA PÉREZ",
+    "email": "ANA@EXAMPLE.COM",
+    "telefono": null,
+    "fecha_nacimiento": "1988/03/10",
+    "fecha_registro": "2025-02-30T09:00:00",
+    "activo": "SI",
+    "direccion": null,
+    "compras_acumuladas": "7",
+    "monto_total": "250000",
+    "preferencias": "futbol,gym",
+    "ultimo_login": null,
+    "tags": "vip",
+    "metadata": {
+      "origen": "web",
+      "campana": "retargeting",
+      "score": "88"
+    }
+  }
+]

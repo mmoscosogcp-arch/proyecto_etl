@@ -1,5 +1,15 @@
+# entorno virtual
 venv/
+
+# variables sensibles
 .env
+
+# archivos compilados
 __pycache__/
 *.pyc
+
+# logs
+*.log
+
+# mac
 .DS_Store

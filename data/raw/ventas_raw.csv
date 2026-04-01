@@ -1,0 +1,123 @@
+id_venta,cliente_id,producto,categoria,cantidad,precio_unitario,descuento_pct,fecha_venta,canal,region,vendedor,moneda,estado_pago,codigo_postal,observaciones,email_cliente,rut_cliente
+1,1001,Guantes arquero,deportes,5,25990,15,2025-03-13,,,ana,,,8320000,Entrega urgente,luis@mail.com,11111111-1
+2,1009,Botines,Calzado,,4990,-5,,,,,clp,,,,ana@example.com,9.876.543-k
+3,1006,Bicicleta,Outdoor,5,14990,15,2026-01-26,web,Araucanía,ana,USD,Rechazado,,,ana@example.com,XX.XXX.XXX-X
+4,1002,Calcetas deportivas,ROPA,03,9990,-5,2025-13-01,,BIOBIO,LUIS,,pagado,8320000,  revisar dirección ,test@test,12345678-5
+5,1002,Botines,Calzado,03,12.990,,22/11/2025,Tienda,BIOBIO,LUIS,,rechazado,,cliente frecuente,cliente@correo.cl,11111111-1
+6,1008,Camiseta,Ropa,03,12.990,-5,2025/04/23 21:00:00,,RM,LUIS,CLP,Rechazado,abc123,,luis@mail.com,11111111-1
+7,,Pelota tenis,Deportes,2,25990,,07-22-2025,WEB,Biobío,Luis,clp,rechazado,,Llamar antes de entregar,,
+8,1003,Botines,Calzado,-1,,5,,web,Valparaiso,Luis,,,,cliente frecuente,,22.222.222-2
+9,1008,Pelota tenis,Deportes,-1,12.990,-5,,web,,María,,Rechazado,8320000,,,9.876.543-k
+10,1001,Botella térmica,Accesorios,5,-5000,10,,,Biobío,LUIS,clp,Rechazado,1100000,sin stock parcial,  pedro@empresa.cl ,12.345.678-5
+11,1006,Pelota tenis,Deportes,0,4990,5,05/07/2025,web,valparaíso,ana,CLP,,1100000,cliente frecuente,  pedro@empresa.cl ,9.876.543-k
+12,,camiseta,Ropa,0,-5000,10,,Marketplace,Araucanía,LUIS,,Pendiente,,,,
+13,1009,Botella térmica,Accesorios,0,9990,15,2025/04/26 02:00:00,web,,LUIS,,Pendiente,8320000,cliente frecuente,ana@example.com,11111111-1
+14,1001,Guantes arquero,deportes,2,9990,-5,,tienda física,valparaíso,Luis,,, 8320000 ,N/A,,11111111-1
+15,1002,Guantes arquero,deportes,,,10%,08-05-2025,,RM,ana,CLP,,,,luis@mail.com,11111111-1
+16,1004,Botines,Calzado,-1,,10,2025/08/05 05:00:00,tienda física,valparaíso,ana,EUR,pagado,8320000,Entrega urgente,luis@mail.com,11111111-1
+10,1007,Camiseta,Ropa,0,,15,25/07/2025,tienda física,RM,,USD,,7600000,Llamar antes de entregar,  pedro@empresa.cl ,XX.XXX.XXX-X
+18,1004,Camiseta,Ropa,5,25990,0,2025-13-01,web,BIOBIO,Ana,CLP,,,sin stock parcial,ana@example.com,12345678-5
+19,1002,Camiseta,Ropa,,9990,15,2025-13-01,WEB,RM,ana,EUR,Rechazado,7600000,  revisar dirección ,,11111111-1
+20,1007,Mancuerna 10kg,Fitness,3,12.990,,2025-06-11,tienda física,Metropolitana,ana,,Pendiente,,,cliente@correo.cl,
+21,1004,Guantes arquero,deportes,2,12.990,10,,Tienda,,Ana,,rechazado,,cliente frecuente,cliente@correo.cl,
+22,1002,Guantes arquero,deportes,-1,14990,20,25/05/2025,,BIOBIO,LUIS,,rechazado,,N/A,test@test,12.345.678-5
+23,,Guantes arquero,deportes,03,12.990,0,,WEB,Biobío,Luis,,,,Llamar antes de entregar,  pedro@empresa.cl ,12.345.678-5
+24,1002,Guantes arquero,deportes,3,-5000,0,2025-13-01,WEB,Araucanía,Luis,CLP,rechazado,7600000,Entrega urgente,,11111111-1
+25,,Botines,Calzado,2,19990 ,-5,,WEB,valparaíso,Luis,clp,,8320000,sin stock parcial,,22.222.222-2
+26,1005,Botines,Calzado,3,9990,,20/01/2025,WEB,,Maria,USD,Pendiente, 8320000 ,Entrega urgente,SIN_EMAIL,22.222.222-2
+27,1005,Colchoneta,fitness,2,12.990,10%,11-25-2025,,,Maria,CLP,pagado,7600000,sin stock parcial,test@test,12.345.678-5
+28,001010,Guantes arquero,deportes,03,19990 ,10%,2025-13-01,web,Araucanía,LUIS,USD,Pagado,,Llamar antes de entregar,ana@example.com,11111111-1
+29,1007,Colchoneta,fitness,2,19990 ,105,,web,Biobío,María,,,7600000,Llamar antes de entregar,test@test,9.876.543-k
+30,1007,Botines,Calzado,,,10,2025/11/12 18:00:00,tienda física,,Ana,USD,rechazado, 8320000 ,Llamar antes de entregar,,XX.XXX.XXX-X
+31,1008,Botella térmica,Accesorios,,25990,-5,31/08/2025,,Metropolitana,María,,Rechazado,8320000,  revisar dirección ,test@test,11111111-1
+32,1003,Botines,Calzado,1,4990,15,,,Metropolitana,,EUR,Pendiente,,Llamar antes de entregar,maria.gomez@gmail.com,22.222.222-2
+33,1003,Botines,Calzado,,4990,5,03/02/2026,WEB,,,CLP,Pendiente,1100000,cliente frecuente,maria.gomez@gmail.com,9.876.543-k
+34,,Botella térmica,Accesorios,-1,-5000,105,2025-13-01,,,,,, 8320000 ,N/A,maria.gomez@gmail.com,
+35,,Botines,Calzado,5,-5000,,2025/11/17 07:00:00,tienda física,Metropolitana,María,clp,rechazado,7600000,,  pedro@empresa.cl ,12345678-5
+36,1003,Camiseta,Ropa,4,,10,2025-12-28,tienda física,Araucanía,Maria,,,abc123,Entrega urgente,SIN_EMAIL,22.222.222-2
+37,001010,Bicicleta,Outdoor,1,0,,2025/09/02 00:00:00,Tienda,Araucanía,,,Pendiente,abc123,  revisar dirección ,test@test,22.222.222-2
+38,1001,Botella térmica,Accesorios,03,19990 ,,,tienda física,Valparaiso,Ana,EUR,Pagado,8320000,Llamar antes de entregar,cliente@correo.cl,XX.XXX.XXX-X
+39,1001,Camiseta,Ropa,5,,10%,2025/04/19 14:00:00,Tienda,Araucanía,María,EUR,rechazado,1100000,cliente frecuente,maria.gomez@gmail.com,12.345.678-5
+40,1001,Calcetas deportivas,ROPA,2,25990,5,2026-02-04,,RM,LUIS,clp,Pagado,,sin stock parcial,SIN_EMAIL,9.876.543-k
+41,,Botella térmica,Accesorios,2,0,15,2025/08/27 22:00:00,,BIOBIO,Luis,,pagado,1100000,sin stock parcial,test@test,12345678-5
+42,1001,Pelota tenis,Deportes,5,0,,23/07/2025,web,valparaíso,ana,,rechazado,1100000,cliente frecuente,ana@example.com,
+43,1007,Calcetas deportivas,ROPA,,19990 ,5,2025/09/17 20:00:00,web,Araucanía,,CLP,,7600000,N/A,cliente@correo.cl,22.222.222-2
+10,,Camiseta,Ropa,-1,12.990,105,,tienda física,,,,rechazado,7600000,  revisar dirección ,luis@mail.com,
+45,1004,Botella térmica,Accesorios,0,0,105,2025/12/09 12:00:00,web,,Maria,clp,, 8320000 ,,test@test,
+46,001010,Mancuerna 10kg,Fitness,5,-5000,0,2025-09-22,WEB,Araucanía,,,Pendiente,,N/A,maria.gomez@gmail.com,XX.XXX.XXX-X
+47,1002,Balón fútbol,Deportes,5,25990,,2025/12/21 07:00:00,,BIOBIO,,,Rechazado,abc123,,,XX.XXX.XXX-X
+48,1005,Mancuerna 10kg,Fitness,5,25990,5,2026/01/05 06:00:00,web,,Luis,clp,Pendiente,,N/A,test@test,
+49,1004,Guantes arquero,deportes,5,25990,10%,2025-04-02,,,Luis,USD,Pagado,8320000,,cliente@correo.cl,XX.XXX.XXX-X
+50,1001,Guantes arquero,deportes,,12.990,,2025/09/03 14:00:00,WEB,RM,María,EUR,pagado,1100000,cliente frecuente,,XX.XXX.XXX-X
+51,001010,Guantes arquero,deportes,,4990,10,2025/03/18 18:00:00,web,valparaíso,ana,,,,  revisar dirección ,  pedro@empresa.cl ,22.222.222-2
+52,1008,Botella térmica,Accesorios,5,0,,2025-13-01,web,Metropolitana,LUIS,,Pendiente,7600000,cliente frecuente,cliente@correo.cl,11111111-1
+53,1009,Camiseta,Ropa,2,14990,0,,Marketplace,,María,CLP,Pendiente,7600000,,maria.gomez@gmail.com,12345678-5
+54,1005,Botines,Calzado,,0,15,2025-13-01,WEB,Valparaiso,María,clp,pagado,8320000,sin stock parcial,test@test,
+55,1002,Botella térmica,Accesorios,0,12.990,,2025-13-01,tienda física,,ana,,Pagado,abc123,,test@test,12.345.678-5
+56,1004,Guantes arquero,deportes,,0,105,,Tienda,RM,Luis,EUR,,7600000,sin stock parcial,,XX.XXX.XXX-X
+57,1008,guantes arquero,deportes,2,,10%,2025-06-14,,Valparaiso,Maria,EUR,,7600000,Llamar antes de entregar,  pedro@empresa.cl ,12.345.678-5
+58,1002,Botella térmica,Accesorios,2,12.990,10%,,Marketplace,RM,,EUR,Pagado, 8320000 ,,maria.gomez@gmail.com,XX.XXX.XXX-X
+59,1004,Balón fútbol,Deportes,5,-5000,10,,tienda física,Metropolitana,Ana,,Pendiente,,sin stock parcial,test@test,12.345.678-5
+60,1007,Calcetas deportivas,ROPA,2,25990,5,,,Valparaiso,,,rechazado,,,,XX.XXX.XXX-X
+61,1004,Botella térmica,Accesorios,0,-5000,10,2025-13-01,Marketplace,Valparaiso,ana,USD,,7600000,,ana@example.com,
+62,001010,Mancuerna 10kg,Fitness,,,10,08-17-2025,Tienda,BIOBIO,,EUR,Rechazado,1100000,  revisar dirección ,SIN_EMAIL,22.222.222-2
+63,1007,Botines,Calzado,1,19990 ,,12-28-2025,,Valparaiso,,CLP,PENDIENTE,,,luis@mail.com,XX.XXX.XXX-X
+64,1009,Guantes arquero,deportes,0,4990,10,29/07/2025,web,,María,USD,,,cliente frecuente,,22.222.222-2
+65,,Colchoneta,fitness,0,-5000,0,13/11/2025,,Biobío,LUIS,,pagado,abc123,cliente frecuente,luis@mail.com,XX.XXX.XXX-X
+66,,Camiseta,Ropa,5,4990,0,2025/06/16 01:00:00,Tienda,BIOBIO,,clp,Pendiente,,Llamar antes de entregar,cliente@correo.cl,9.876.543-k
+67,1002,Camiseta,Ropa,,,105,12-16-2025,Marketplace,Valparaiso,LUIS,EUR,rechazado,abc123,,ana@example.com,XX.XXX.XXX-X
+68,,Mancuerna 10kg,Fitness,-1,14990,5,2025-13-01,Tienda,Araucanía,María,EUR,rechazado, 8320000 ,Llamar antes de entregar,maria.gomez@gmail.com,12345678-5
+69,1007,Botines,Calzado,,19990 ,105,2025/06/01 22:00:00,web,Araucanía,María,CLP,Pagado,,N/A,test@test,11111111-1
+70,1006,Pelota tenis,Deportes,4,25990,105,,,Valparaiso,ana,,Pagado,7600000,N/A,ana@example.com,
+71,1002,Camiseta,Ropa,5,19990 ,,31/03/2025,,,Maria,,rechazado,1100000,sin stock parcial,test@test,XX.XXX.XXX-X
+72,,Mancuerna 10kg,Fitness,2,9990,,,WEB,Araucanía,Maria,CLP,,8320000,,  pedro@empresa.cl ,12345678-5
+73,1006,Botella térmica,Accesorios,,12.990,105,2025/07/15 20:00:00,web,valparaíso,,CLP,Rechazado,,  revisar dirección ,luis@mail.com,XX.XXX.XXX-X
+74,,Mancuerna 10kg,Fitness,03,9990,10,2025/01/24 01:00:00,tienda física,Metropolitana,ana,clp,PENDIENTE,abc123,N/A,,22.222.222-2
+75,,Pelota tenis,Deportes,3,,5,09-08-2025,Tienda,RM,Maria,clp,,abc123,  revisar dirección ,,12345678-5
+76,1009,Colchoneta,fitness,,19990 ,0,23/07/2025,web,,ana,,Pendiente,,Entrega urgente,ana@example.com,
+77,1003,Botines,Calzado,,25990,5,27/01/2026,Marketplace,valparaíso,LUIS,USD,PENDIENTE,1100000,Entrega urgente,test@test,9.876.543-k
+78,1009,Camiseta,Ropa,5,14990,5,05/12/2025,web,BIOBIO,LUIS,,Rechazado,8320000,sin stock parcial,test@test,12.345.678-5
+79,,Camiseta,Ropa,03,-5000,5,01-17-2026,tienda física,BIOBIO,ana,EUR,Pendiente,,Entrega urgente,  pedro@empresa.cl ,
+80,,Botella térmica,Accesorios,1,4990,,,web,,,CLP,pagado,7600000,sin stock parcial,luis@mail.com,9.876.543-k
+81,001010,Mancuerna 10kg,Fitness,,0,-5,12-31-2025,Marketplace,,María,EUR,,8320000,cliente frecuente,  pedro@empresa.cl ,11111111-1
+82,1008,Bicicleta,Outdoor,4,,10%,08-21-2025,,Metropolitana,Maria,EUR,Rechazado,,,,9.876.543-k
+83,1002,Botella térmica,Accesorios,2,9990,5,,,BIOBIO,Luis,,Pagado,,,luis@mail.com,22.222.222-2
+84,,Colchoneta,fitness,03,4990,20,2025/11/04 09:00:00,web,,LUIS,clp,, 8320000 ,cliente frecuente,,
+85,1005,Guantes arquero,deportes,,25990,,2025-13-01,,,Ana,,rechazado,8320000,sin stock parcial,test@test,
+86,1006,Colchoneta,fitness,1,14990,10,10-17-2025,web,Valparaiso,Ana,CLP,Pendiente,abc123,Llamar antes de entregar,maria.gomez@gmail.com,
+87,1006,Camiseta,Ropa,5,19990 ,105,2025-11-02,WEB,Valparaiso,Ana,,pagado,7600000,N/A,,XX.XXX.XXX-X
+88,1008,Pelota tenis,Deportes,03,12.990,15,2026-01-22,Tienda,Araucanía,ana,USD,,,,ana@example.com,11111111-1
+10,001010,Bicicleta,Outdoor,1,4990,15,,WEB,Biobío,María,USD,pagado,8320000,N/A,,9.876.543-k
+90,1007,Camiseta,Ropa,-1,25990,-5,,Tienda,Metropolitana,,,Pagado,abc123,Entrega urgente,maria.gomez@gmail.com,12345678-5
+91,001010,Colchoneta,fitness,03,0,,12-30-2025,Tienda,Metropolitana,,CLP,Rechazado, 8320000 ,N/A,,12345678-5
+92,1002,Bicicleta,Outdoor,4,,105,2025-07-25,tienda física,Biobío,Maria,clp,Rechazado,1100000,sin stock parcial,luis@mail.com,12345678-5
+93,1009,Calcetas deportivas,ROPA,4,19990 ,10%,,WEB,valparaíso,ana,clp,rechazado, 8320000 ,sin stock parcial,cliente@correo.cl,12345678-5
+94,,Camiseta,Ropa,0,,105,01-25-2026,,BIOBIO,Maria,clp,,8320000,N/A,maria.gomez@gmail.com,
+95,001010,Mancuerna 10kg,Fitness,1,19990 ,-5,02-07-2025,tienda física,RM,Ana,USD,rechazado,8320000,cliente frecuente,  pedro@empresa.cl ,22.222.222-2
+96,001010,Botella térmica,Accesorios,-1,4990,,,WEB,BIOBIO,,,PENDIENTE,8320000,N/A,luis@mail.com,
+97,1009,Guantes arquero,deportes,,14990,0,05-07-2025,tienda física,,Luis,USD,Rechazado,7600000,Llamar antes de entregar,,
+98,1001,Pelota tenis,Deportes,,19990 ,5,2025-13-01,,Araucanía,María,USD,PENDIENTE,7600000,cliente frecuente,cliente@correo.cl,
+99,,Mancuerna 10kg,Fitness,,,10,2025-11-01,Tienda,,,,Rechazado,1100000,sin stock parcial,  pedro@empresa.cl ,12345678-5
+100,1009,Bicicleta,Outdoor,2,4990,10%,08/06/2025,Tienda,,LUIS,clp,PENDIENTE, 8320000 ,cliente frecuente,test@test,12345678-5
+101,1009,Calcetas deportivas,ROPA,-1,4990,10%,28/01/2026,Marketplace,Araucanía,Luis,clp,PENDIENTE,1100000,sin stock parcial,maria.gomez@gmail.com,12.345.678-5
+102,1006,Bicicleta,Outdoor,,25990,,,,,LUIS,,Pendiente,7600000,N/A,SIN_EMAIL,
+103,1008,Pelota tenis,Deportes,0,12.990,,09-15-2025,WEB,valparaíso,Luis,USD,Pagado,,N/A,,12345678-5
+104,1002,Calcetas deportivas,ROPA,5,9990,10,2025-13-01,WEB,Araucanía,ana,clp,,7600000,Entrega urgente,,12.345.678-5
+105,1009,Bicicleta,Outdoor,2,25990,,11/02/2025,web,BIOBIO,ana,,Rechazado,1100000,sin stock parcial,cliente@correo.cl,12.345.678-5
+106,1008,Mancuerna 10kg,Fitness,3,,,2025-11-12,web,Biobío,LUIS,clp,,8320000,,SIN_EMAIL,
+107,1001,Guantes arquero,deportes,4,,105,2025-08-23,,,Ana,,Pendiente,,sin stock parcial,test@test,22.222.222-2
+108,001010,Balón fútbol,Deportes,2,25990,105,,,Metropolitana,Maria,CLP,Pagado,abc123,N/A,ana@example.com,22.222.222-2
+109,1005,Colchoneta,fitness,1,19990 ,5,,,Metropolitana,Maria,clp,Pagado,7600000,,cliente@correo.cl,XX.XXX.XXX-X
+110,,Botella térmica,Accesorios,3,14990,5,2026-01-02,Tienda,valparaíso,Ana,clp,Pagado,7600000,,  pedro@empresa.cl ,22.222.222-2
+111,1008,Calcetas deportivas,ROPA,5,4990,15,,,RM,Maria,USD,pagado,1100000,,,22.222.222-2
+112,1007,Botella térmica,Accesorios,2,14990,,2025/12/21 15:00:00,,,María,CLP,,8320000,Llamar antes de entregar,cliente@correo.cl,
+113,1002,Colchoneta,fitness,2,19990 ,20,2025-13-01,,Araucanía,Luis,,,7600000,N/A,ana@example.com,
+114,1007,Pelota tenis,Deportes,5,4990,5,12-10-2025,Tienda,,Luis,CLP,PENDIENTE,1100000,N/A,ana@example.com,9.876.543-k
+115,1004,Guantes arquero,deportes,,19990 ,10%,2025-07-16,Marketplace,Valparaiso,,USD,Rechazado,abc123,cliente frecuente,cliente@correo.cl,
+116,1006,Bicicleta,Outdoor,,12.990,15,,WEB,,,,pagado,7600000,,maria.gomez@gmail.com,11111111-1
+117,1005,Pelota tenis,Deportes,0,25990,5,03-11-2025,WEB,,ana,,Rechazado,,,luis@mail.com,
+118,1003,Mancuerna 10kg,Fitness,,14990,10%,2025-09-18,WEB,Valparaiso,LUIS,EUR,Pagado,7600000,,maria.gomez@gmail.com,9.876.543-k
+119,1002,Pelota tenis,Deportes,2,12.990,,01-03-2026,Marketplace,Araucanía,,,pagado, 8320000 ,,luis@mail.com,XX.XXX.XXX-X
+120,,Botella térmica,Accesorios,-1,19990 ,10,,Marketplace,Valparaiso,Luis,EUR,Pagado,1100000,cliente frecuente,  pedro@empresa.cl ,9.876.543-k
+6,1008,Camiseta,Ropa,03,12.990,-5,2025/04/23 21:00:00,,RM,LUIS,CLP,Rechazado,abc123,,luis@mail.com,11111111-1
+121,1004,Guantes arquero,deportes,2,12.990,10,2025/02/30 10:00:00,Tienda,,Ana,,rechazado,,cliente frecuente,cliente@correo.cl,
